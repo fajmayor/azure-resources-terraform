@@ -54,3 +54,5 @@ This project provisions a scalable web application infrastructure in Azure using
     - A Health Probe on port 80
 
     - Load balancing rules (defined using dynamic blocks)
+
+    
